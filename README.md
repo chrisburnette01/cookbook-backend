@@ -63,13 +63,3 @@ COOKBOOKS
 | /api/cookbooks              | POST          | create     | create a new CKB      |`
 | /api/cookbooks              | PUT           | update     | update a CKB          |
 | /api/cookbooks/:title       | DELETE        | delete     | delete a CKB          |
-
-## Plagiarism
-
-Take a moment to refamiliarize yourself with the [Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md). Plagiarized work will not be accepted.
-
-## [License](LICENSE)
-
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-2.  All software code is licensed under GNU GPLv3. For commercial use or
-    alternative licensing, please contact legal@ga.co.
